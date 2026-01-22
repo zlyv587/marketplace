@@ -1,0 +1,33 @@
+{
+  "lastUpdated": "2026-01-22T03:51:39Z",
+  "plugins": {
+    "claude-md-sync": {
+      "version": "1.0.0",
+      "releaseDate": "2026-01-22",
+      "description": "Automatically keeps CLAUDE.md synchronized with project state. Detects project type, analyzes current state, and proposes documentation updates.",
+      "changelog": "https://github.com/zlyv587/marketplace/blob/main/plugins/claude-md-sync/CHANGELOG.md",
+      "repository": "https://github.com/zlyv587/marketplace/tree/main/plugins/claude-md-sync"
+    },
+    "claude-mem0": {
+      "version": "1.6.1",
+      "releaseDate": "2026-01-22",
+      "description": "Persistent memory for Claude Code using mem0 cloud API. Automatically captures and retrieves global user-level and project-level memories.",
+      "changelog": "https://github.com/zlyv587/marketplace/blob/main/plugins/claude-mem0/CHANGELOG.md",
+      "repository": "https://github.com/zlyv587/marketplace/tree/main/plugins/claude-mem0"
+    },
+    "gui-agent-dev": {
+      "version": "1.1.0",
+      "releaseDate": "2026-01-22",
+      "description": "Development toolkit for GUI automation agents with /dev command (6-step workflow), 8 agents, and code review skill",
+      "changelog": "https://github.com/zlyv587/marketplace/blob/main/plugins/gui-agent-dev/CHANGELOG.md",
+      "repository": "https://github.com/zlyv587/marketplace/tree/main/plugins/gui-agent-dev"
+    },
+    "plugin-updater": {
+      "version": "1.0.0",
+      "releaseDate": "2026-01-22",
+      "description": "Check for updates to installed Claude Code plugins from the developer-kits marketplace",
+      "changelog": "https://github.com/zlyv587/marketplace/blob/main/plugins/plugin-updater/CHANGELOG.md",
+      "repository": "https://github.com/zlyv587/marketplace/tree/main/plugins/plugin-updater"
+    }
+  }
+}

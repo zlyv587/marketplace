@@ -1,0 +1,40 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "developer-kits",
+  "description": "A collection of plugins for Claude Code",
+  "owner": {
+    "name": "James Tan",
+    "email": "xiang@heidihealth.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-md-sync",
+      "description": "Automatically keeps CLAUDE.md synchronized with project state. Detects project type, analyzes current state, and proposes documentation updates.",
+      "version": "1.0.0",
+      "author": {
+        "name": "GeekMini"
+      },
+      "source": "./plugins/claude-md-sync",
+      "category": "productivity",
+      "homepage": "https://github.com/geekmini/claude-plugins/tree/main/claude-md-sync"
+    },
+    {
+      "name": "claude-mem0",
+      "description": "Persistent memory for Claude Code using mem0 cloud API. Automatically captures and retrieves global user-level and project-level memories.",
+      "version": "1.6.1",
+      "author": {
+        "name": "GeekMini"
+      },
+      "source": "./plugins/claude-mem0",
+      "category": "productivity",
+      "homepage": "https://github.com/geekmini/claude-plugins/tree/main/claude-mem0"
+    },
+    {
+      "name": "gui-agent-dev",
+      "description": "Development toolkit for GUI automation agents with /dev command (6-step workflow), 8 agents (5 domain + 3 workflow), and code review skill.",
+      "version": "1.1.0",
+      "source": "./plugins/gui-agent-dev",
+      "category": "development"
+    }
+  ]
+}

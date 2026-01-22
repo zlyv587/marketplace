@@ -3,7 +3,7 @@
 
 set -e
 
-MARKETPLACE_URL="https://raw.githubusercontent.com/james-heidi/developer-kits/main/versions.json"
+MARKETPLACE_URL="https://raw.githubusercontent.com/zlyv587/marketplace/main/versions.json"
 INSTALLED_PLUGINS_DIR="$HOME/.claude/plugins"
 
 # 颜色定义

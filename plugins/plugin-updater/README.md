@@ -125,7 +125,7 @@ sudo apt-get install jq
 
 Check your internet connection and ensure you can access:
 ```
-https://raw.githubusercontent.com/james-heidi/developer-kits/main/versions.json
+https://raw.githubusercontent.com/zlyv587/marketplace/main/versions.json
 ```
 
 ### No plugins detected

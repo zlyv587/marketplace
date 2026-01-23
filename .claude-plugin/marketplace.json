@@ -32,7 +32,7 @@
     {
       "name": "gui-agent-dev",
       "description": "Development toolkit for GUI automation agents with /dev command (6-step workflow), 8 agents (5 domain + 3 workflow), and code review skill.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "source": "./plugins/gui-agent-dev",
       "category": "development"
     }

@@ -35,6 +35,18 @@
       "version": "1.2.0",
       "source": "./plugins/gui-agent-dev",
       "category": "development"
+    },
+    {
+      "name": "plugin-updater",
+      "version": "1.0.0",
+      "description": "Check for updates to installed Claude Code plugins from the developer-kits marketplace",
+      "author": {
+        "name": "GeekMini",
+        "url": "https://github.com/geekmini"
+      },
+      "repository": "https://github.com/zlyv587/marketplace/tree/main/plugins/plugin-updater",
+      "license": "MIT",
+      "keywords": ["updates", "version", "marketplace", "plugins", "maintenance"]
     }
   ]
 }

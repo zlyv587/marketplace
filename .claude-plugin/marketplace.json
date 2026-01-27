@@ -38,7 +38,7 @@
     },
     {
       "name": "plugin-updater",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Check for updates to installed Claude Code plugins from the developer-kits marketplace",
       "source": "./plugins/plugin-updater",
       "category": "development"
